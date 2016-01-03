@@ -22,3 +22,5 @@ chmod 755 /usr/local/bin/em
 ```
 
 Now from any directory you can run `em` to start emacs in that dir or run `em /path/to/dir` to open a particular directory
+
+Courtesy : [Niranjan's emacs.d](https://github.com/achamian) for basic setip
