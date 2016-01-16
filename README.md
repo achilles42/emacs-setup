@@ -1,6 +1,6 @@
 ## Setup
 
-Emacs-setup for go-lang, ruby and crystal.
+Emacs-setup for go-lang, ruby, crystal, c, c++, closure, css, java, javascript, php, python, scheme, tcl.
 
 `git clone https://github.com/spraveen1112/emacs.d.git ~/.emacs.d`
 
